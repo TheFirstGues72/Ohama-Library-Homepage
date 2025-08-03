@@ -49,21 +49,20 @@ body {
   transform: translateY(-50%);
   left: 25px;
   background-image: linear-gradient(
-    225deg,
-    hsl(45deg 86% 62%) 0%,
-    hsl(44deg 87% 62%) 8%,
-    hsl(42deg 88% 62%) 15%,
-    hsl(41deg 88% 62%) 23%,
-    hsl(40deg 89% 62%) 31%,
-    hsl(38deg 89% 62%) 38%,
-    hsl(37deg 89% 62%) 46%,
-    hsl(36deg 89% 62%) 54%,
-    hsl(35deg 89% 62%) 62%,
-    hsl(33deg 89% 62%) 69%,
-    hsl(32deg 88% 62%) 77%,
-    hsl(31deg 88% 62%) 85%,
-    hsl(29deg 87% 62%) 92%,
-    hsl(28deg 87% 62%) 100%
+    45deg,
+    hsl(197deg 37% 24%) 0%,
+    hsl(195deg 41% 25%) 8%,
+    hsl(193deg 46% 26%) 17%,
+    hsl(191deg 50% 27%) 25%,
+    hsl(189deg 54% 28%) 33%,
+    hsl(187deg 59% 29%) 42%,
+    hsl(186deg 62% 29%) 50%,
+    hsl(184deg 65% 30%) 58%,
+    hsl(182deg 67% 31%) 67%,
+    hsl(180deg 67% 32%) 75%,
+    hsl(178deg 65% 34%) 83%,
+    hsl(175deg 62% 36%) 92%,
+    hsl(173deg 58% 39%) 100%
   );
   height: auto;
   padding: 10px;
@@ -113,3 +112,4 @@ hr {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
+
